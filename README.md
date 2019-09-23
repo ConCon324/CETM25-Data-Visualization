@@ -14,7 +14,7 @@ This is a dataset from Inside Airbnb, [**Hong Kong's Airbnb Data**](http://insid
 3. Open the Tableau Public after intalled the software and start your work.
 
 ### Description
-The file "listing.csv" contains Airbnb property's information from [**Hong Kong's Airbnb Data**](http://insideairbnb.com/get-the-data.html) in HK. 
+The file "listing.csv" contains Airbnb property's information from [**Hong Kong's Airbnb Data**](http://insideairbnb.com/get-the-data.html). 
 The period updated as at 13 July, 2019. The Airbnb data includes all valid Airbnb property's information . 
 Dataset has 38 columns, which involves different types of information such as host ID, Property Address, Price, Score etc. 
 It is noted that there is no leakage of personal information, such that the readers do not know the host identity. 
