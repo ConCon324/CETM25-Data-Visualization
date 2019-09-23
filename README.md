@@ -29,4 +29,4 @@ This data visualisation programming language is VizQL and development platform i
 
 ## Built With
 * The dashboard and storyboard is using Tableau Public built in function. 
-* [**Demonstration**] is uploaded to [**Github**] (https://github.com/ConCon324/CETM25-Data-Visualization/blob/master/CETM25%20Data%20Visualization%20Assignment_20190923.twbx) for your download.  
+* [**Demonstration**] is uploaded to [**Github**](https://github.com/ConCon324/CETM25-Data-Visualization/blob/master/CETM25%20Data%20Visualization%20Assignment_20190923.twbx) for your download.  
