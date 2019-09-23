@@ -3,7 +3,7 @@
 Introduction: As a data visualiser or data analyst in a data scientist start-up company, you are tasked to design and develop a bespoke  Big Data visualisation product as part of an individual R & D project.
 
 Now, the company got a job for analyzing Hong Kong's Airbnb and Hotel Population Enviorment Project.
-The viewer of the data visualisation product will be those junior company staff who have no or very limited knowlegde of data science knowledge or data visualisation technologies who need to install, deploy, and use the data visualisation product to visualise a compelling data storytelling for a group of targeted audiences who are the investors on Airbnb or Hotel project.
+The viewer of the data visualisation product will be those company's junior staff who have no or very limited knowlegde of data science knowledge or data visualisation technologies who need to install, deploy, and use the data visualisation product to visualise a compelling data storytelling for a group of targeted audiences who are the investors on Airbnb or Hotel project.
 
 ## Open Dataset
 This is a dataset from Inside Airbnb, [**Hong Kong's Airbnb Data**](http://insideairbnb.com/get-the-data.html) which data "listing.csv.gz as at 13 July, 2019".
