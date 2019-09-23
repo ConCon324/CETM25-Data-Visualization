@@ -1,4 +1,4 @@
-# Hong Kong’s Airbnb and Hotel Visualization System
+# Hong Kong’s Airbnb Visualization System
 
 Introduction: As a data visualiser or data analyst in a data scientist start-up company, you are tasked to design and develop a bespoke  Big Data visualisation product as part of an individual R & D project.
 
